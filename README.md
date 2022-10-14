@@ -38,7 +38,7 @@ $ yarn start
 
 ```
 
-### [](https://github.com/driica/DSvendas#--autor) 💎 Autora 
+### [](https://github.com/driica/book#--autor) 💎 Autora 
 <img style="border-radius: 8px" src="https://github.com/driica.png" width="100px;" alt="Adriana Beatriz"/>
 
 
